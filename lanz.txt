@@ -1,1 +1,2 @@
 this is lanz file
+Rebase test from Lanz
